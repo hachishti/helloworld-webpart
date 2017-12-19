@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloWorldSpFx/HelloWorldSpFxWebPart.js",
+      "manifest": "./src/webparts/helloWorldSpFx/HelloWorldSpFxWebPart.manifest.json",
+      "outputPath": "./dist/hello-world-sp-fx-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "HelloWorldSpFxWebPartStrings": "webparts/helloWorldSpFx/loc/{locale}.js"
+  }
+}
